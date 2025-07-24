@@ -1,0 +1,27 @@
+{
+  "trackedShipments": {
+    "count": 1,
+    "data": [
+      {
+        "shipment": {
+          "containerNumber": "ABCD1234567",
+          "scac": "OOCL",
+          "carrierBookingReference": "OOC6391227",
+          "initialCarrierETA": "2025-05-18T12:00:00Z",
+          "initialCarrierETD": "2025-05-01T08:00:00Z",
+          "status": {
+            "actualArrivalAt": "2025-05-20T15:45:00Z",
+            "actualDepartureAt": "2025-05-01T09:30:00Z",
+            "delay": {
+              "reasons": [
+                {
+                  "delayReasonDescription": "bad weather"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+requests~=2.32.4
+fastapi~=0.116.1
+httpx
+torch
+transformers~=4.53.3
+uvicorn
+pandas~=2.3.1
